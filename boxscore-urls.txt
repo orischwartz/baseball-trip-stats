@@ -1,0 +1,4 @@
+# URLs go here
+https://www.baseball-reference.com/boxes/PIT/PIT200505140.shtml
+https://www.baseball-reference.com/boxes/CLE/CLE200505150.shtml
+https://www.baseball-reference.com/boxes/WAS/WAS200505160.shtml
